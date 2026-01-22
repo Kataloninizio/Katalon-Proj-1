@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Organizzazione</name>
+   <tag></tag>
+   <elementGuidId>361c5cff-2f65-4386-b15a-bf4b3b8ad723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ctl00_ctl00_PageBody_MenuSite']/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.rmLink.rmRootLink.rmExpanded > span.rmText.rmExpandDown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Organizzazione&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>836b9b2d-fb8b-4b6e-90c0-a2b82541bbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmText rmExpandDown</value>
+      <webElementGuid>04716a51-6261-4bbb-b820-6e5d33850d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organizzazione</value>
+      <webElementGuid>38f634c9-a038-454a-9775-9d90a6c77503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ctl00_ctl00_PageBody_MenuSite&quot;)/ul[@class=&quot;rmRootGroup rmHorizontal&quot;]/li[@class=&quot;rmItem&quot;]/a[@class=&quot;rmLink rmRootLink rmExpanded&quot;]/span[@class=&quot;rmText rmExpandDown&quot;]</value>
+      <webElementGuid>90f26367-5cc7-44c3-9d17-22d33620b6e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ctl00_ctl00_PageBody_MenuSite']/ul/li[4]/a/span</value>
+      <webElementGuid>3c00b26a-2704-46a3-9710-0bbe82e44edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Query'])[1]/following::span[1]</value>
+      <webElementGuid>993a26dc-e2d1-4321-a8f6-6a4aba16d5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Org View'])[1]/following::span[2]</value>
+      <webElementGuid>bce760c1-aa12-4548-9270-79eec3027898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Struttura Organizzativa'])[1]/preceding::span[1]</value>
+      <webElementGuid>d3062520-3267-4729-aa77-1ea3bd5aa9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posizioni Organizzative'])[1]/preceding::span[2]</value>
+      <webElementGuid>d988226c-b473-47e2-8ee3-8589daa35c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organizzazione']/parent::*</value>
+      <webElementGuid>8024b961-82d3-43ce-ab75-4de8adac92d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>de99868d-dd2a-4c54-9374-83fe05e25e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Organizzazione' or . = 'Organizzazione')]</value>
+      <webElementGuid>9854b632-bd21-4d1e-bb58-a185b3c6cd5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
