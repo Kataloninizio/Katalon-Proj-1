@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://portale-admin-t1.alveria.local/Aspx/login.aspx')
 
 WebUI.setText(findTestObject('Object Repository/Prova/Page_/input_Username_ctl00_ctl00_PageBody_Contenu_b04958'), 'Admin')
