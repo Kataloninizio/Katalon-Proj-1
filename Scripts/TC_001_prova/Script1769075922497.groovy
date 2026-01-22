@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/Prova/Page_/span_Struttura Organiz
 
 WebUI.click(findTestObject('Object Repository/Prova/Page_/span_WIND TRE ITALIA (CORTI GIANLUCA, 2, 6946)'))
 
-WebUI.delay(5)
+WebUI.delay(20)
 
 WebUI.closeBrowser()
 
